@@ -1,4 +1,4 @@
-// Stijlen toevoegen voor Kahoot-style layout
+
 const style = document.createElement("style");
 style.textContent = `
     body {
